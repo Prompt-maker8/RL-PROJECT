@@ -1,0 +1,3 @@
+def generate_reasoning(ticker, fusion, trend_info, headlines):
+
+    return f"Analytical Evaluation:\nThe internal systematic algorithm establishes a {trend_info['trend']} price geometry context operating within a broader {fusion['regime']} market regime. Synthesized against real-time global NLP news sentiment and the primary local historical reinforcement vector, the pipeline constrains optimal strategic posture firmly toward a {fusion['decision']} action sequence."

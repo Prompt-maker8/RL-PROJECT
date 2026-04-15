@@ -1,0 +1,26 @@
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+
+=== FINAL OUTPUT ===
+{'stock': 'NVDA', 'final_score': -0.1484, 'decision': 'HOLD', 'confidence': 0.14842304560291728, 'regime': 'SIDEWAYS', 'sentiment': 0.030000000000000013, 'headlines': ['Royal Caribbean vs. Carnival: One Cruise Giant Has a Clear Profitability Advantage', 'CoreWeave Owes $21 Billion. Its Customers Are Its Biggest Risk.', 'Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation', 'Jim Cramer on Vertiv Holdings: “It’s Been Too High Ever Since It Got Too High”', 'Jim Cramer Believes “First Amendment’s Going to Be a Very Good Protector of What Meta Has to Do”'], 'rl_signal': -0.42266032099723816}
+
+Trend: {'trend': 'STABLE', 'slope': 0.0, 'strength': 0.0}
+
+Reasoning:
+ 
+Stock: NVDA
+
+Decision: HOLD
+Confidence: 0.15
+Regime: SIDEWAYS
+Sentiment: 0.03
+
+Trend: STABLE
+
+Headlines:
+['Royal Caribbean vs. Carnival: One Cruise Giant Has a Clear Profitability Advantage', 'CoreWeave Owes $21 Billion. Its Customers Are Its Biggest Risk.', 'Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation', 'Jim Cramer on Vertiv Holdings: “It’s Been Too High Ever Since It Got Too High”', 'Jim Cramer Believes “First Amendment’s Going to Be a Very Good Protector of What Meta Has to Do”']
+
+The system combines RL signals, sentiment, and market regime to generate a balanced decision.
+
+
+Report saved: NVDA_report.pdf

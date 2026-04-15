@@ -1,0 +1,13 @@
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+
+=== FINAL OUTPUT ===
+{'stock': 'GOOG', 'final_score': 0.7449, 'decision': 'BUY', 'confidence': 0.7448826059941737, 'regime': 'SIDEWAYS', 'sentiment': 0.16362500000000002, 'headlines': ['Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation', 'Bitcoin Quantum Fears Reignite Samson Mow’s Bank and Military Warning, Calls Out Researchers', 'SpaceX Is Worth $2 Trillion? What That Might Mean.', 'Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.', 'Under the Skin of America’s Humanoid Robots: Chinese Technology'], 'rl_signal': 1.0}
+
+Trend: {'trend': 'STABLE', 'slope': -0.0, 'strength': 0.0}
+
+Reasoning:
+ Analytical Evaluation:
+The internal systematic algorithm establishes a STABLE price geometry context operating within a broader SIDEWAYS market regime. Synthesized against real-time global NLP news sentiment and the primary local historical reinforcement vector, the pipeline constrains optimal strategic posture firmly toward a BUY action sequence.
+
+Report saved: GOOG_report.pdf

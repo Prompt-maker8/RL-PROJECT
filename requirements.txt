@@ -1,0 +1,30 @@
+# ===== Core RL =====
+torch==2.6.0
+gymnasium==0.29.1
+stable-baselines3==2.3.2
+sb3-contrib==2.3.0
+scikit-learn==1.4.2
+
+# ===== Data =====
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.40
+matplotlib==3.8.4
+
+# ===== News & Requests =====
+requests==2.31.0
+
+# ===== LLM / RAG =====
+langchain==0.2.1
+langgraph==0.0.55
+langchain-google-genai==1.0.5
+google-generativeai==0.5.4
+pymongo==4.7.2
+langchain-mongodb==0.1.6
+
+# ===== PDF =====
+reportlab==4.2.0
+
+# ===== Utilities =====
+python-dotenv==1.0.1
+schedule==1.2.1

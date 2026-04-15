@@ -1,0 +1,29 @@
+[*********************100%***********************]  1 of 1 completed
+
+[!] Gemini LLM Failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+[*********************100%***********************]  1 of 1 completed
+
+=== FINAL OUTPUT ===
+{'stock': 'TSLA', 'final_score': 0.0716, 'decision': 'HOLD', 'confidence': 0.07162899665980486, 'regime': 'SIDEWAYS', 'sentiment': 0.19197, 'headlines': ['SpaceX Is Worth $2 Trillion? What That Might Mean.', "Oil at $111, Tesla Stumbles, and Trump's Pharma Bombshell", "This Artificial Intelligence (AI) Stock Could Be a Hidden Gem (and Here's Why)", "Tesla eyes Japan's top imported-car spot as it expands store, service network", 'Under the Skin of America’s Humanoid Robots: Chinese Technology'], 'rl_signal': -0.016223173588514328}
+
+Trend: {'trend': 'STABLE', 'slope': -0.0, 'strength': 0.0}
+
+Reasoning:
+ 
+Stock: TSLA
+
+Decision: HOLD
+Confidence: 0.07
+Regime: SIDEWAYS
+Sentiment: 0.19
+
+Trend: STABLE
+
+Headlines:
+['SpaceX Is Worth $2 Trillion? What That Might Mean.', "Oil at $111, Tesla Stumbles, and Trump's Pharma Bombshell", "This Artificial Intelligence (AI) Stock Could Be a Hidden Gem (and Here's Why)", "Tesla eyes Japan's top imported-car spot as it expands store, service network", 'Under the Skin of America’s Humanoid Robots: Chinese Technology']
+
+The system combines RL signals, sentiment, and market regime to generate a balanced decision.
+
+
+Report saved: TSLA_report.pdf

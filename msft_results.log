@@ -1,0 +1,29 @@
+[*********************100%***********************]  1 of 1 completed
+
+[!] Gemini LLM Failed: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+[*********************100%***********************]  1 of 1 completed
+
+=== FINAL OUTPUT ===
+{'stock': 'MSFT', 'final_score': 0.0193, 'decision': 'HOLD', 'confidence': 0.019267505286418695, 'regime': 'SIDEWAYS', 'sentiment': 0.28088500000000005, 'headlines': ["Warren Buffett says it's been radio silent with his old friend Bill Gates since the Epstein Files came out", 'Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation', 'Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.', 'Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity', 'Microsoft to invest $10 bn for Japan AI data centres'], 'rl_signal': -0.3092319965362549}
+
+Trend: {'trend': 'STABLE', 'slope': 0.0, 'strength': 0.0}
+
+Reasoning:
+ 
+Stock: MSFT
+
+Decision: HOLD
+Confidence: 0.02
+Regime: SIDEWAYS
+Sentiment: 0.28
+
+Trend: STABLE
+
+Headlines:
+["Warren Buffett says it's been radio silent with his old friend Bill Gates since the Epstein Files came out", 'Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation', 'Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.', 'Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity', 'Microsoft to invest $10 bn for Japan AI data centres']
+
+The system combines RL signals, sentiment, and market regime to generate a balanced decision.
+
+
+Report saved: MSFT_report.pdf

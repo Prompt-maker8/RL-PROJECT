@@ -1,0 +1,75 @@
+﻿.\venv3\Scripts\python.
+exe : D:\RL PROJECT\ven
+v3\Lib\site-packages\re
+quests\__init__.py:109:
+ RequestsDependencyWarn
+ing: urllib3 (1.26.20) 
+or chardet (6.0.0.post1
+)/charset_normalizer 
+(3.4.4) doesn't match 
+a supported version!
+At line:1 char:1
++ .\venv3\Scripts\pytho
+n.exe .\main_agent.py 
+2>&1 | Out-File 
+-FilePath  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo     
+         : 
+NotSpecified: (D:\    
+RL PROJECT\v...ported  
+   version!:String) 
+[], R    emoteException
+    + 
+FullyQualifiedErrorI   
+ d : NativeCommandError
+ 
+  warnings.warn(
+
+[*********************1
+00%********************
+***]  1 of 1 completed
+
+[*********************1
+00%********************
+***]  1 of 1 completed
+Traceback (most recent 
+call last):
+  File "D:\RL PROJECT\m
+ain_agent.py", line 
+35, in <module>
+    run_agent("AAPL")
+  File "D:\RL PROJECT\m
+ain_agent.py", line 8, 
+in run_agent
+    fusion = 
+fuse_signals(ticker)
+             
+^^^^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\f
+usion_engine.py", line 
+27, in fuse_signals
+    regime = 
+detect_regime(df)
+             
+^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\t
+rend_analyzer.py", 
+line 56, in 
+detect_regime
+    if ma50.iloc[-1] > 
+ma200.iloc[-1]:
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+pandas\core\generic.py"
+, line 1577, in 
+__nonzero__
+    raise ValueError(
+ValueError: The truth 
+value of a Series is 
+ambiguous. Use 
+a.empty, a.bool(), 
+a.item(), a.any() or 
+a.all().

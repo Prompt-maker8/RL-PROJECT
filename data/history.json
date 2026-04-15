@@ -1,0 +1,28 @@
+{
+    "AAPL": [
+        {
+            "date": "2026-02-27",
+            "rl_signal": -0.26590046286582947,
+            "sentiment": 0.265,
+            "final_score": -0.10663032400608062,
+            "confidence": 0.4690995371341705,
+            "decision": "HOLD"
+        },
+        {
+            "date": "2026-02-27",
+            "rl_signal": -0.26590046286582947,
+            "sentiment": 0.19000000000000003,
+            "final_score": -0.1291303240060806,
+            "confidence": 0.5440995371341705,
+            "decision": "HOLD"
+        },
+        {
+            "date": "2026-02-27",
+            "rl_signal": -0.26590046286582947,
+            "sentiment": -0.12,
+            "final_score": -0.22213032400608063,
+            "confidence": 0.8540995371341705,
+            "decision": "SELL"
+        }
+    ]
+}

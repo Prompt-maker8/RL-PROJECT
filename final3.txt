@@ -1,0 +1,24 @@
+﻿
+=== FINAL OUTPUT ===
+{'stock': 'AAPL', 'final_score': 0.0, 'decision': 'HOLD', 'confidence': 2.169873575283708e-05, 'regime': 'SIDEWAYS', 'sentiment': 0.0, 'headlines': ['SpaceX Is Worth $2 Trillion? What That Might Mean.', '7 Dividend Increases Expected In April 2026', 'Apple At 50 Weighs AI Partnerships Satellite Ties And Succession', 'Early Apple stock investors now earn a 5.2 percent dividend yield', 'Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet?'], 'rl_signal': 0.004910163581371307}
+
+Trend: {'trend': 'STABLE', 'slope': 0.0, 'strength': 0.0}
+
+Reasoning:
+ 
+Stock: AAPL
+
+Decision: HOLD
+Confidence: 0.00
+Regime: SIDEWAYS
+Sentiment: 0.00
+
+Trend: STABLE
+
+Headlines:
+['SpaceX Is Worth $2 Trillion? What That Might Mean.', '7 Dividend Increases Expected In April 2026', 'Apple At 50 Weighs AI Partnerships Satellite Ties And Succession', 'Early Apple stock investors now earn a 5.2 percent dividend yield', 'Apple Just Turned 50 Years Old. Is the AAPL Stock Cake Stale or Sweet?']
+
+The system combines RL signals, sentiment, and market regime to generate a balanced decision.
+
+
+Report saved: AAPL_report.pdf

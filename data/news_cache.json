@@ -1,0 +1,123 @@
+{
+    "AAPL_today_2026-04-03": {
+        "sentiment": 0.08729166666666666,
+        "headlines": [
+            "SpaceX Is Worth $2 Trillion? What That Might Mean.",
+            "7 Dividend Increases Expected In April 2026",
+            "Apple At 50 Weighs AI Partnerships Satellite Ties And Succession",
+            "Early Apple stock investors now earn a 5.2 percent dividend yield"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "TSLA_today_2026-04-03": {
+        "sentiment": 0.19197,
+        "headlines": [
+            "SpaceX Is Worth $2 Trillion? What That Might Mean.",
+            "Oil at $111, Tesla Stumbles, and Trump's Pharma Bombshell",
+            "This Artificial Intelligence (AI) Stock Could Be a Hidden Gem (and Here's Why)",
+            "Tesla eyes Japan's top imported-car spot as it expands store, service network",
+            "Under the Skin of America\u2019s Humanoid Robots: Chinese Technology"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "NVDA_today_2026-04-03": {
+        "sentiment": 0.34841,
+        "headlines": [
+            "Royal Caribbean vs. Carnival: One Cruise Giant Has a Clear Profitability Advantage",
+            "CoreWeave Owes $21 Billion. Its Customers Are Its Biggest Risk.",
+            "Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation",
+            "Jim Cramer on Vertiv Holdings: \u201cIt\u2019s Been Too High Ever Since It Got Too High\u201d",
+            "Jim Cramer Believes \u201cFirst Amendment\u2019s Going to Be a Very Good Protector of What Meta Has to Do\u201d"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "AMD_today_2026-04-03": {
+        "sentiment": 0.0625,
+        "headlines": [
+            "Advanced Micro Devices (AMD) Is Up 6.7% After New CIQ Partnership Targets Open, Power\u2011Efficient AI Infrastructure",
+            "How The AMD (AMD) Investment Story Is Shifting With AI Deals And Mixed Analyst Targets"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "MSFT_today_2026-04-03": {
+        "sentiment": 0.28088500000000005,
+        "headlines": [
+            "Warren Buffett says it's been radio silent with his old friend Bill Gates since the Epstein Files came out",
+            "Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation",
+            "Vanguard Wellington Is a 97-Year-Old Underdog. It\u2019s Still Going Strong.",
+            "Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity",
+            "Microsoft to invest $10 bn for Japan AI data centres"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "GOOG_today_2026-04-03": {
+        "sentiment": 0.16362500000000002,
+        "headlines": [
+            "Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation",
+            "Bitcoin Quantum Fears Reignite Samson Mow\u2019s Bank and Military Warning, Calls Out Researchers",
+            "SpaceX Is Worth $2 Trillion? What That Might Mean.",
+            "Vanguard Wellington Is a 97-Year-Old Underdog. It\u2019s Still Going Strong.",
+            "Under the Skin of America\u2019s Humanoid Robots: Chinese Technology"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "AMZN_today_2026-04-03": {
+        "sentiment": -0.07531500000000001,
+        "headlines": [
+            "I'm Building Income With The Most Essential Businesses In The World",
+            "Amazon Surcharge And Union Ruling Test Margins Versus Valuation Upside",
+            "The AI Trade Is Steaming Ahead, at Least in Private Markets",
+            "Oil at $111, Tesla Stumbles, and Trump's Pharma Bombshell",
+            "US Job Market Flashes Warning Signs Last Seen During 2020 Pandemic"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "META_today_2026-04-03": {
+        "sentiment": 0.250905,
+        "headlines": [
+            "Jim Cramer Believes \u201cFirst Amendment\u2019s Going to Be a Very Good Protector of What Meta Has to Do\u201d",
+            "SpaceX Is Worth $2 Trillion? What That Might Mean.",
+            "Arm\u2019s AI Chip Pivot With Meta And IBM Faces Rich Valuation Risks",
+            "Corning Meta Fiber Expansion Tests High Valuation And AI Growth Story",
+            "How The AMD (AMD) Investment Story Is Shifting With AI Deals And Mixed Analyst Targets"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "NFLX_today_2026-04-03": {
+        "sentiment": 0.296,
+        "headlines": [
+            "Netflix (NFLX) Valuation Check After Recent Share Price Momentum Fuels Mixed Undervaluation Signals"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "JPM_today_2026-04-03": {
+        "sentiment": -0.07702499999999998,
+        "headlines": [
+            "How The Story Is Shifting For KGHM Polska Miedz (WSE:KGH) As Analyst Views Diverge",
+            "Retail Investors Are Getting Cautious: Is That Actually a Contrarian Buy Signal?"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    },
+    "TSLA_today_2026-04-15": {
+        "sentiment": -0.10656,
+        "headlines": [
+            "Uncover the latest developments among S&P500 stocks in today's session.",
+            "Tesla Has Some Robot Competition",
+            "Elon Musk Hits Out At 'Tesla Killers' As EV Giant Outsells Rivals GM, Ford, Rivian In US",
+            "Tesla Gets $360 Price Target as Traders Ask: How Much Will Terafab Really Cost?",
+            "Elon Musk Once Called Instagram A 'Thirst Trap,' Deleted His Account: Billionaire Could Be Back To Promote SpaceX IPO"
+        ],
+        "source": "finnhub_rule_based",
+        "mode": "today"
+    }
+}

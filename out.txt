@@ -1,0 +1,133 @@
+﻿.\venv3\Scripts\python.
+exe : D:\RL PROJECT\ven
+v3\Lib\site-packages\re
+quests\__init__.py:109:
+ RequestsDependencyWarn
+ing: urllib3 (1.26.20) 
+or chardet (6.0.0.post1
+)/charset_normalizer 
+(3.4.4) doesn't match 
+a supported version!
+At line:1 char:1
++ .\venv3\Scripts\pytho
+n.exe .\main_agent.py 
+2>&1 | Out-File 
+-FilePath  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (D:\RL PROJECT   
+ \v...ported versio    
+n!:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+  warnings.warn(
+Failed to get ticker 
+'AAPL' reason: 
+Expecting value: line 
+1 column 1 (char 0)
+
+[*********************1
+00%%*******************
+***]  1 of 1 completed
+
+1 Failed download:
+['AAPL']: JSONDecodeErr
+or('Expecting value: 
+line 1 column 1 (char 
+0)')
+Traceback (most recent 
+call last):
+  File "D:\RL PROJECT\m
+ain_agent.py", line 
+35, in <module>
+    run_agent("AAPL")
+  File "D:\RL PROJECT\m
+ain_agent.py", line 8, 
+in run_agent
+    fusion = 
+fuse_signals(ticker)
+             
+^^^^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\f
+usion_engine.py", line 
+23, in fuse_signals
+    rl = 
+get_rl_signal(stock, 
+model)
+         ^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
+  File "D:\RL PROJECT\e
+valution_model.py", 
+line 53, in 
+get_rl_signal
+    df[cols] = scaler.f
+it_transform(df[cols])
+               ^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\utils\_set_outp
+ut.py", line 295, in 
+wrapped
+    data_to_wrap = 
+f(self, X, *args, 
+**kwargs)
+                   ^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\base.py", line 
+1098, in fit_transform
+    return self.fit(X, 
+**fit_params).transform
+(X)
+           ^^^^^^^^^^^^
+^^^^^^^^^^^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\base.py", line 
+1474, in wrapper
+    return 
+fit_method(estimator, 
+*args, **kwargs)
+           ^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\preprocessing\_
+data.py", line 1591, 
+in fit
+    X = 
+self._validate_data(
+        
+^^^^^^^^^^^^^^^^^^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\base.py", line 
+633, in _validate_data
+    out = 
+check_array(X, 
+input_name="X", 
+**check_params)
+          ^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^
+  File "D:\RL PROJECT\v
+env3\Lib\site-packages\
+sklearn\utils\validatio
+n.py", line 1072, in 
+check_array
+    raise ValueError(
+ValueError: Found 
+array with 0 sample(s) 
+(shape=(0, 5)) while a 
+minimum of 1 is 
+required by 
+RobustScaler.
